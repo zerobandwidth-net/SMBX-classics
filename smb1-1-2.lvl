@@ -61,10 +61,10 @@
 #FALSE#
 #FALSE#
 ""
-0
-0
-0
-0
+-100000
+-100600
+-100000
+-99200
 0
 16291944
 #FALSE#
@@ -22769,7 +22769,19 @@
 0
 #FALSE#
 #FALSE#
-"Default"
+"Normal Pipe"
+""
+""
+""
+-119744
+-120128
+32
+32
+611
+0
+#FALSE#
+#FALSE#
+"Minus World Pipe"
 ""
 ""
 ""
@@ -22781,7 +22793,31 @@
 0
 #FALSE#
 #FALSE#
-"Default"
+"Normal Pipe"
+""
+""
+""
+-119744
+-120096
+32
+32
+47
+0
+#FALSE#
+#FALSE#
+"Minus World Pipe"
+""
+""
+""
+-119744
+-120064
+32
+32
+47
+0
+#FALSE#
+#FALSE#
+"Minus World Pipe"
 ""
 ""
 ""
@@ -22793,7 +22829,19 @@
 0
 #FALSE#
 #FALSE#
-"Default"
+"Normal Pipe"
+""
+""
+""
+-119744
+-120032
+32
+32
+51
+0
+#FALSE#
+#FALSE#
+"Minus World Pipe"
 ""
 ""
 ""
@@ -22805,7 +22853,7 @@
 0
 #FALSE#
 #FALSE#
-"Default"
+"Normal Pipe"
 ""
 ""
 ""
@@ -22945,11 +22993,11 @@
 -120128
 32
 32
-611
+54
 0
 #FALSE#
 #FALSE#
-"Minus World Pipe"
+"Normal Pipe"
 ""
 ""
 ""
@@ -22957,11 +23005,11 @@
 -120128
 32
 32
-54
+48
 0
 #FALSE#
 #FALSE#
-"Normal Pipe"
+"Minus World Pipe"
 ""
 ""
 ""
@@ -22979,9 +23027,9 @@
 ""
 -119712
 -120096
+64
 32
-32
-47
+377
 0
 #FALSE#
 #FALSE#
@@ -23002,10 +23050,10 @@
 ""
 ""
 -119712
--120064
+-120032
 32
 32
-47
+52
 0
 #FALSE#
 #FALSE#
@@ -23022,18 +23070,6 @@
 #FALSE#
 #FALSE#
 "Normal Pipe"
-""
-""
-""
--119712
--120032
-32
-32
-51
-0
-#FALSE#
-#FALSE#
-"Minus World Pipe"
 ""
 ""
 ""
@@ -23207,6 +23243,18 @@
 ""
 -119680
 -120096
+64
+32
+376
+0
+#FALSE#
+#FALSE#
+"Minus World Pipe"
+""
+""
+""
+-119680
+-120096
 32
 32
 54
@@ -23214,18 +23262,6 @@
 #FALSE#
 #FALSE#
 "Normal Pipe"
-""
-""
-""
--119680
--120096
-64
-32
-377
-0
-#FALSE#
-#FALSE#
-"Minus World Pipe"
 ""
 ""
 ""
@@ -23245,11 +23281,11 @@
 -120032
 32
 32
-52
+54
 0
 #FALSE#
 #FALSE#
-"Minus World Pipe"
+"Normal Pipe"
 ""
 ""
 ""
@@ -23257,11 +23293,11 @@
 -120032
 32
 32
-54
+52
 0
 #FALSE#
 #FALSE#
-"Normal Pipe"
+"Minus World Pipe"
 ""
 ""
 ""
@@ -23423,18 +23459,6 @@
 ""
 -119648
 -120096
-64
-32
-376
-0
-#FALSE#
-#FALSE#
-"Minus World Pipe"
-""
-""
-""
--119648
--120096
 32
 32
 54
@@ -23461,11 +23485,11 @@
 -120032
 32
 32
-54
+52
 0
 #FALSE#
 #FALSE#
-"Normal Pipe"
+"Minus World Pipe"
 ""
 ""
 ""
@@ -23473,11 +23497,11 @@
 -120032
 32
 32
-52
+54
 0
 #FALSE#
 #FALSE#
-"Minus World Pipe"
+"Normal Pipe"
 ""
 ""
 ""
@@ -23665,11 +23689,11 @@
 -120032
 32
 32
-54
+52
 0
 #FALSE#
 #FALSE#
-"Normal Pipe"
+"Minus World Pipe"
 ""
 ""
 ""
@@ -23677,11 +23701,11 @@
 -120032
 32
 32
-52
+54
 0
 #FALSE#
 #FALSE#
-"Minus World Pipe"
+"Normal Pipe"
 ""
 ""
 ""
@@ -23821,11 +23845,11 @@
 -120128
 32
 32
-54
+48
 0
 #FALSE#
 #FALSE#
-"Normal Pipe"
+"Minus World Pipe"
 ""
 ""
 ""
@@ -23833,11 +23857,11 @@
 -120128
 32
 32
-48
+54
 0
 #FALSE#
 #FALSE#
-"Minus World Pipe"
+"Normal Pipe"
 ""
 ""
 ""
@@ -23869,11 +23893,11 @@
 -120032
 32
 32
-52
+54
 0
 #FALSE#
 #FALSE#
-"Minus World Pipe"
+"Normal Pipe"
 ""
 ""
 ""
@@ -23881,11 +23905,11 @@
 -120032
 32
 32
-54
+52
 0
 #FALSE#
 #FALSE#
-"Normal Pipe"
+"Minus World Pipe"
 ""
 ""
 ""
@@ -24017,9 +24041,9 @@
 0
 #FALSE#
 #FALSE#
-"Minus World Pipe"
+"Normal Pipe"
 ""
-"Minus World Pipe Conceal"
+"Minus World Pipe Reveal"
 ""
 -119552
 -120256
@@ -24029,9 +24053,9 @@
 0
 #FALSE#
 #FALSE#
-"Normal Pipe"
+"Minus World Pipe"
 ""
-"Minus World Pipe Reveal"
+"Minus World Pipe Conceal"
 ""
 -119552
 -120160
@@ -24049,6 +24073,18 @@
 -120128
 32
 32
+54
+0
+#FALSE#
+#FALSE#
+"Normal Pipe"
+""
+""
+""
+-119552
+-120128
+32
+32
 48
 0
 #FALSE#
@@ -24058,14 +24094,14 @@
 ""
 ""
 -119552
--120128
+-120096
+64
 32
-32
-54
+376
 0
 #FALSE#
 #FALSE#
-"Normal Pipe"
+"Minus World Pipe"
 ""
 ""
 ""
@@ -24097,11 +24133,11 @@
 -120032
 32
 32
-52
+54
 0
 #FALSE#
 #FALSE#
-"Minus World Pipe"
+"Normal Pipe"
 ""
 ""
 ""
@@ -24109,11 +24145,11 @@
 -120032
 32
 32
-54
+52
 0
 #FALSE#
 #FALSE#
-"Normal Pipe"
+"Minus World Pipe"
 ""
 ""
 ""
@@ -24253,7 +24289,7 @@
 -120128
 32
 32
-612
+48
 0
 #FALSE#
 #FALSE#
@@ -24275,9 +24311,9 @@
 ""
 -119520
 -120096
+64
 32
-32
-50
+377
 0
 #FALSE#
 #FALSE#
@@ -24310,22 +24346,10 @@
 ""
 ""
 -119520
--120064
-32
-32
-50
-0
-#FALSE#
-#FALSE#
-"Minus World Pipe"
-""
-""
-""
--119520
 -120032
 32
 32
-53
+52
 0
 #FALSE#
 #FALSE#
@@ -24533,7 +24557,31 @@
 0
 #FALSE#
 #FALSE#
-"Default"
+"Normal Pipe"
+""
+""
+""
+-119488
+-120128
+32
+32
+612
+0
+#FALSE#
+#FALSE#
+"Minus World Pipe"
+""
+""
+""
+-119488
+-120096
+32
+32
+50
+0
+#FALSE#
+#FALSE#
+"Minus World Pipe"
 ""
 ""
 ""
@@ -24545,7 +24593,19 @@
 0
 #FALSE#
 #FALSE#
-"Default"
+"Normal Pipe"
+""
+""
+""
+-119488
+-120064
+32
+32
+50
+0
+#FALSE#
+#FALSE#
+"Minus World Pipe"
 ""
 ""
 ""
@@ -24557,7 +24617,19 @@
 0
 #FALSE#
 #FALSE#
-"Default"
+"Normal Pipe"
+""
+""
+""
+-119488
+-120032
+32
+32
+53
+0
+#FALSE#
+#FALSE#
+"Minus World Pipe"
 ""
 ""
 ""
@@ -24569,7 +24641,7 @@
 0
 #FALSE#
 #FALSE#
-"Default"
+"Normal Pipe"
 ""
 ""
 ""
@@ -25367,18 +25439,6 @@
 ""
 -119328
 -120352
-32
-64
-197
-0
-#FALSE#
-#FALSE#
-"Normal Pipe"
-""
-""
-""
--119328
--120352
 64
 64
 378
@@ -25386,6 +25446,18 @@
 #FALSE#
 #FALSE#
 "Minus World Pipe"
+""
+""
+""
+-119328
+-120352
+32
+64
+197
+0
+#FALSE#
+#FALSE#
+"Normal Pipe"
 ""
 ""
 ""
@@ -26095,23 +26167,7 @@
 60
 "Normal Pipe"
 -119808
--120320
-61
-"Normal Pipe"
--119808
--120352
-61
-"Normal Pipe"
--119808
--120192
-61
-"Normal Pipe"
--119808
--120224
-61
-"Normal Pipe"
--119808
--120256
+-120160
 61
 "Normal Pipe"
 -119808
@@ -26119,31 +26175,39 @@
 61
 "Normal Pipe"
 -119808
+-120224
+61
+"Normal Pipe"
+-119808
+-120192
+61
+"Normal Pipe"
+-119808
 -120288
 61
 "Normal Pipe"
 -119808
--120160
+-120352
 61
 "Normal Pipe"
--119424
+-119808
 -120256
-60
-"Default"
+61
+"Normal Pipe"
+-119808
+-120320
+61
+"Normal Pipe"
 -119424
 -120384
 60
 "Default"
--119296
--120384
-61
-"Default"
--119296
--120352
-61
-"Default"
--119296
+-119424
 -120256
+60
+"Default"
+-119296
+-120224
 61
 "Default"
 -119296
@@ -26151,39 +26215,31 @@
 61
 "Default"
 -119296
--120320
+-120384
 61
 "Default"
 -119296
--120288
-61
-"Default"
--119296
--120224
-61
-"Default"
--119296
--120160
-61
-"Default"
--119936
--120320
-165
-"Minus World Pipe"
--119936
--120160
-165
-"Minus World Pipe"
--119936
 -120256
-165
-"Minus World Pipe"
+61
+"Default"
+-119296
+-120288
+61
+"Default"
+-119296
+-120352
+61
+"Default"
+-119296
+-120320
+61
+"Default"
+-119296
+-120160
+61
+"Default"
 -119936
 -120288
-165
-"Minus World Pipe"
--119936
--120352
 165
 "Minus World Pipe"
 -119936
@@ -26191,7 +26247,23 @@
 165
 "Minus World Pipe"
 -119936
+-120352
+165
+"Minus World Pipe"
+-119936
+-120256
+165
+"Minus World Pipe"
+-119936
 -120224
+165
+"Minus World Pipe"
+-119936
+-120320
+165
+"Minus World Pipe"
+-119936
+-120160
 165
 "Minus World Pipe"
 -119936
@@ -26199,15 +26271,7 @@
 165
 "Minus World Pipe"
 -119904
--120160
-165
-"Minus World Pipe"
--119904
--120288
-165
-"Minus World Pipe"
--119904
--120224
+-120192
 165
 "Minus World Pipe"
 -119904
@@ -26219,7 +26283,7 @@
 165
 "Minus World Pipe"
 -119904
--120192
+-120224
 165
 "Minus World Pipe"
 -119904
@@ -26227,6 +26291,14 @@
 165
 "Minus World Pipe"
 -119904
+-120288
+165
+"Minus World Pipe"
+-119904
+-120160
+165
+"Minus World Pipe"
+-119904
 -120256
 165
 "Minus World Pipe"
@@ -26235,11 +26307,7 @@
 165
 "Minus World Pipe"
 -119872
--120352
-165
-"Minus World Pipe"
--119872
--120160
+-120256
 165
 "Minus World Pipe"
 -119872
@@ -26247,11 +26315,7 @@
 165
 "Minus World Pipe"
 -119872
--120320
-165
-"Minus World Pipe"
--119872
--120256
+-120160
 165
 "Minus World Pipe"
 -119872
@@ -26259,15 +26323,27 @@
 165
 "Minus World Pipe"
 -119872
+-120352
+165
+"Minus World Pipe"
+-119872
+-120320
+165
+"Minus World Pipe"
+-119872
 -120224
+165
+"Minus World Pipe"
+-119840
+-120288
+165
+"Minus World Pipe"
+-119840
+-120256
 165
 "Minus World Pipe"
 -119840
 -120320
-165
-"Minus World Pipe"
--119840
--120224
 165
 "Minus World Pipe"
 -119840
@@ -26275,7 +26351,11 @@
 165
 "Minus World Pipe"
 -119840
--120256
+-120160
+165
+"Minus World Pipe"
+-119840
+-120224
 165
 "Minus World Pipe"
 -119840
@@ -26283,15 +26363,31 @@
 165
 "Minus World Pipe"
 -119840
+-120352
+165
+"Minus World Pipe"
+-119808
+-120256
+165
+"Minus World Pipe"
+-119808
+-120192
+165
+"Minus World Pipe"
+-119808
 -120160
 165
 "Minus World Pipe"
--119840
--120288
+-119808
+-120224
 165
 "Minus World Pipe"
--119840
--120352
+-119808
+-120384
+165
+"Minus World Pipe"
+-119808
+-120288
 165
 "Minus World Pipe"
 -119808
@@ -26300,30 +26396,6 @@
 "Minus World Pipe"
 -119808
 -120352
-165
-"Minus World Pipe"
--119808
--120224
-165
-"Minus World Pipe"
--119808
--120160
-165
-"Minus World Pipe"
--119808
--120288
-165
-"Minus World Pipe"
--119808
--120384
-165
-"Minus World Pipe"
--119808
--120256
-165
-"Minus World Pipe"
--119808
--120192
 165
 "Minus World Pipe"
 -200000
@@ -26355,23 +26427,23 @@
 161
 "Default"
 -139328
--140224
+-140352
 144
+"Default"
+-139328
+-140160
+144
+"Default"
+-139328
+-140384
+142
 "Default"
 -139328
 -140320
 144
 "Default"
 -139328
--140352
-144
-"Default"
--139328
--140288
-144
-"Default"
--139328
--140160
+-140128
 144
 "Default"
 -139328
@@ -26383,11 +26455,11 @@
 144
 "Default"
 -139328
--140192
+-140224
 144
 "Default"
 -139328
--140128
+-140192
 144
 "Default"
 -139328
@@ -26395,8 +26467,8 @@
 144
 "Default"
 -139328
--140384
-142
+-140288
+144
 "Default"
 -139200
 -140416
@@ -26426,30 +26498,6 @@
 -120224
 92
 "Default"
--119552
--120096
-105
-"Minus World Pipe"
--139264
--140288
-145
-"Default"
--139264
--140064
-145
-"Default"
--139264
--140192
-145
-"Default"
--139264
--140384
-143
-"Default"
--139264
--140224
-145
-"Default"
 -139264
 -140160
 145
@@ -26459,52 +26507,42 @@
 145
 "Default"
 -139264
--140320
-145
-"Default"
--139264
 -140128
 145
 "Default"
 -139264
--140096
+-140320
+145
+"Default"
+-139264
+-140192
 145
 "Default"
 -139264
 -140256
 145
 "Default"
+-139264
+-140288
+145
+"Default"
+-139264
+-140064
+145
+"Default"
+-139264
+-140224
+145
+"Default"
+-139264
+-140384
+143
+"Default"
+-139264
+-140096
+145
+"Default"
 "next"
--119808
--120192
--1
-235
-#FALSE#
-""
-#TRUE#
-#FALSE#
-#FALSE#
-"Minus World Pipe"
-""
-""
-""
-""
-""
--119898
--120192
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Minus World Pipe"
-""
-""
-""
-""
-""
 -119866
 -120192
 -1
@@ -26535,13 +26573,28 @@
 ""
 ""
 ""
--119872
--120288
+-119898
+-120192
 -1
-41
+88
 #FALSE#
 ""
 #FALSE#
+#FALSE#
+#FALSE#
+"Minus World Pipe"
+""
+""
+""
+""
+""
+-119808
+-120192
+-1
+235
+#FALSE#
+""
+#TRUE#
 #FALSE#
 #FALSE#
 "Minus World Pipe"
@@ -26580,22 +26633,7 @@
 ""
 ""
 ""
--159770
--160160
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--159674
+-159706
 -160160
 -1
 88
@@ -26611,51 +26649,6 @@
 ""
 ""
 -159546
--160160
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--159610
--160160
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--159642
--160160
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--159738
 -160160
 -1
 88
@@ -26685,38 +26678,8 @@
 ""
 ""
 ""
--159578
--160160
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--159706
--160160
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
 -159674
--160288
+-160160
 -1
 88
 #FALSE#
@@ -26730,53 +26693,8 @@
 ""
 ""
 ""
--159738
--160288
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--159642
--160288
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--159578
--160288
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--159706
--160288
+-159770
+-160160
 -1
 88
 #FALSE#
@@ -26791,6 +26709,81 @@
 ""
 ""
 -159610
+-160160
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-159738
+-160160
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-159642
+-160160
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-159578
+-160160
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-159706
+-160288
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-159546
 -160288
 -1
 88
@@ -26820,7 +26813,67 @@
 ""
 ""
 ""
--159546
+-159610
+-160288
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-159578
+-160288
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-159642
+-160288
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-159674
+-160288
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-159738
 -160288
 -1
 88
@@ -26853,6 +26906,66 @@
 ""
 ""
 ""
+-176800
+-180160
+-1
+27
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
+""
+-178460
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-177244
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-177820
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
 -176864
 -180160
 -1
@@ -26883,232 +26996,7 @@
 ""
 ""
 ""
--178236
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--178016
--180160
--1
-27
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
-""
--177244
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--177756
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
 -177276
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--175328
--180160
--1
-175
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
-""
--178428
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--178268
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--176988
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--176736
--180160
--1
-27
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
-""
--178396
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--178460
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--178560
--180160
--1
-173
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
-""
--178624
--180160
--1
-173
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
-""
--177148
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--177212
 -180160
 -1
 258
@@ -27138,22 +27026,7 @@
 ""
 ""
 ""
--176800
--180160
--1
-27
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
-""
--178204
+-177884
 -180160
 -1
 258
@@ -27168,7 +27041,22 @@
 ""
 "Secret Door Reveal"
 ""
--177308
+-176736
+-180160
+-1
+27
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
+""
+-178428
 -180160
 -1
 258
@@ -27183,7 +27071,37 @@
 ""
 "Secret Door Reveal"
 ""
--176384
+-176988
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-178236
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-179520
 -180160
 -1
 27
@@ -27197,6 +27115,36 @@
 ""
 ""
 ""
+""
+-175328
+-180160
+-1
+175
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
+""
+-178396
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
 ""
 -177180
 -180160
@@ -27228,52 +27176,7 @@
 ""
 "Secret Door Reveal"
 ""
--179520
--180160
--1
-27
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
-""
--177820
--180160
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--178112
--180160
--1
-173
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
-""
--177884
+-177212
 -180160
 -1
 258
@@ -27302,6 +27205,21 @@
 ""
 ""
 "Secret Door Reveal"
+""
+-178624
+-180160
+-1
+173
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
 ""
 -178364
 -180160
@@ -27333,8 +27251,158 @@
 ""
 "Secret Door Reveal"
 ""
+-177756
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-178560
+-180160
+-1
+173
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
+""
 -178300
 -180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-176384
+-180160
+-1
+27
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
+""
+-178016
+-180160
+-1
+27
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
+""
+-177308
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-178112
+-180160
+-1
+173
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
+""
+-178204
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-178268
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-177148
+-180160
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-176956
+-180192
 -1
 258
 #FALSE#
@@ -27363,36 +27431,6 @@
 ""
 ""
 ""
--176956
--180192
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--176988
--180224
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
 -176924
 -180224
 -1
@@ -27407,21 +27445,6 @@
 ""
 ""
 "Secret Door Reveal"
-""
--175712
--180224
--1
-27
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
 ""
 -176956
 -180224
@@ -27468,6 +27491,36 @@
 ""
 "Secret Door Reveal"
 ""
+-176988
+-180224
+-1
+258
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-175712
+-180224
+-1
+27
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
+""
 -176304
 -180240
 -1
@@ -27513,12 +27566,12 @@
 ""
 ""
 ""
--173992
+-173832
 -180272
 -1
 151
 #FALSE#
-"Warp to Area 4"
+"Warp to Area 3"
 #TRUE#
 #FALSE#
 #FALSE#
@@ -27558,13 +27611,58 @@
 ""
 ""
 ""
--173832
+-173992
 -180272
 -1
 151
 #FALSE#
-"Warp to Area 3"
+"Warp to Area 4"
 #TRUE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-177568
+-180288
+-1
+27
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
+""
+-177818
+-180288
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-178042
+-180288
+-1
+88
+#FALSE#
+""
+#FALSE#
 #FALSE#
 #FALSE#
 "Default"
@@ -27618,22 +27716,52 @@
 ""
 ""
 ""
--178074
+-176988
 -180288
 -1
-88
+258
 #FALSE#
 ""
 #FALSE#
 #FALSE#
 #FALSE#
-"Default"
+"Secret Coins"
+""
+""
+""
+"Secret Door Reveal"
+""
+-175648
+-180288
+-1
+27
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
 ""
 ""
 ""
 ""
 ""
--177818
+-177504
+-180288
+-1
+27
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Enemies (switched)"
+""
+""
+""
+""
+""
+-178074
 -180288
 -1
 88
@@ -27658,81 +27786,6 @@
 #FALSE#
 #FALSE#
 "Default"
-""
-""
-""
-""
-""
--178042
--180288
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--177568
--180288
--1
-27
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
-""
--176988
--180288
--1
-258
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Secret Coins"
-""
-""
-""
-"Secret Door Reveal"
-""
--177504
--180288
--1
-27
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
-""
-""
-""
-""
-""
--175648
--180288
--1
-27
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Enemies (switched)"
 ""
 ""
 ""
@@ -27768,36 +27821,6 @@
 ""
 ""
 ""
--177242
--180384
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--177178
--180384
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
 -177146
 -180384
 -1
@@ -27813,37 +27836,7 @@
 ""
 ""
 ""
--178650
--180384
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--178586
--180384
--1
-88
-#FALSE#
-""
-#FALSE#
-#FALSE#
-#FALSE#
-"Default"
-""
-""
-""
-""
-""
--177306
+-177242
 -180384
 -1
 88
@@ -27873,6 +27866,51 @@
 ""
 ""
 ""
+-177210
+-180384
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-177178
+-180384
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-177306
+-180384
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
 -177274
 -180384
 -1
@@ -27888,7 +27926,22 @@
 ""
 ""
 ""
--177210
+-178586
+-180384
+-1
+88
+#FALSE#
+""
+#FALSE#
+#FALSE#
+#FALSE#
+"Default"
+""
+""
+""
+""
+""
+-178650
 -180384
 -1
 88
@@ -28076,7 +28129,7 @@
 #FALSE#
 -174656
 -180416
--119616
+-119648
 -120064
 4
 2
@@ -28093,7 +28146,7 @@
 #FALSE#
 #FALSE#
 #FALSE#
--119616
+-119648
 -120064
 -174656
 -180416
@@ -28112,22 +28165,41 @@
 #FALSE#
 #FALSE#
 #FALSE#
--119552
+-119584
 -120064
--119824
--120368
-1
-3
+-119584
+-120064
+4
 2
+1
 ""
 11
 #FALSE#
-#FALSE#
--1
--1
+#TRUE#
+384
+544
 0
 "Minus World Pipe"
 #TRUE#
+#FALSE#
+#FALSE#
+#FALSE#
+-173648
+-180256
+-173648
+-180256
+3
+1
+1
+""
+12
+#FALSE#
+#TRUE#
+1504
+1664
+0
+"Default"
+#FALSE#
 #FALSE#
 #FALSE#
 #FALSE#
